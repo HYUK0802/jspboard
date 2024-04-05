@@ -22,7 +22,8 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="main.jsp"
+				<li><a href="main.jsp">메인</a></li>
+				<li><a href="main.jsp">메인</a></li>
 			</ul>
 		</div>
 	</nav>
