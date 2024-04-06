@@ -44,6 +44,13 @@
 			script.println("history.back()");
 			script.println("</script>");
 		}
+		else if (result == -2){
+			PrintWriter script = response.getWriter();
+			script.println("<script>");
+			script.println("alert('데이터베이스 오류가 발생했습니다.')");
+			script.println("history.back()");
+			script.println("</script>");
+		}
 	%>
 	
 </body>
