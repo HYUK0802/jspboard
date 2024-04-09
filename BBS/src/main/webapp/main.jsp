@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/custom.css">
 <title>JSP 게시판 웹 사이트</title>
 </head>
 <body>
@@ -63,6 +64,15 @@
             
               </div>
     </nav>  
+    <div class="container">
+    	<div class="jumbotron">
+    		<div class="container">
+    			<h1>웹사이트 소개</h1>
+    			<p>JSP로 만든 게시판 웹사이트 입니다. 프론트는 부트스트랩을 이용하였습니다. <br> 취업하고 싶다!! 열심히 하겠습니다</p>
+    			<p><a class="btn btn-primary btn-pull" href="#" role="button">깃허브</a></p>
+    		</div>
+    	</div>
+    </div>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="js/bootstrap.js"></script>
     
